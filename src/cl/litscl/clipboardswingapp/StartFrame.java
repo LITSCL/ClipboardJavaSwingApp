@@ -15,7 +15,6 @@ import java.awt.event.ActionEvent;
 import javax.swing.JTextArea;
 
 public class StartFrame extends JFrame {
-
 	private JPanel contentPane;
 	private JButton btnCopiar;
 	private JTextArea textAreaTexto;
